@@ -1,0 +1,3 @@
+subject: ¡Welcome to your first template!
+sender mail: test@traphuman.com
+sender name: Test
