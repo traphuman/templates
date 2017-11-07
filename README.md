@@ -2,8 +2,10 @@
 
 In sites/default/files/humantesting/templates/git:
 
+```
 git init
 git remote add origin https://github.com/traphuman/templates.git
+```
 
 # Execute by cron this script
 
